@@ -47,13 +47,5 @@ Currently building, experimenting, and expanding my skills across web developmen
 | **[Project One](https://github.com/madebyscarletlabs/project-one)** | One line on what it is and the result | HTML · CSS · JS |
 | **[Project Two](https://github.com/madebyscarletlabs/project-two)** | One line on what it is and the result | HTML · CSS · JS |
 
-### ✦ Stats
-
-<div align="center">
-
-<img height="180" src="https://raw.githubusercontent.com/madebyscarletlabs/madebyscarletlabs/main/profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
-<img height="180" src="https://raw.githubusercontent.com/madebyscarletlabs/madebyscarletlabs/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="top languages"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:B76E79,50:4A1229,100:0D0B0E&section=footer" width="100%" alt="footer"/>
+✦ Stats
+<div align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=madebyscarletlabs&show_icons=true&hide_border=true&bg_color=0D0B0E&title_color=B76E79&icon_color=B76E79&text_color=E8D5C4&ring_color=B76E79" alt="stats"/> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madebyscarletlabs&layout=compact&hide_border=true&bg_color=0D0B0E&title_color=B76E79&text_color=E8D5C4" alt="top languages"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:B76E79,50:4A1229,100:0D0B0E&section=footer" width="100%" alt="footer"/>
